@@ -6,8 +6,6 @@
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     *returnSize = 2;
     int* result = (int*)malloc(2 * sizeof(int));
-
-    // Step 1: Create a copy with values + original indices
     typedef struct {
         int val;
         int idx;
@@ -18,8 +16,6 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
         arr[i].val = nums[i];
         arr[i].idx = i;
     }
-
-    // Step 2: Bubble sort by value
     for (int i = 0; i < numsSize - 1; i++) {
         for (int j = 0; j < numsSize - i - 1; j++) {
             if (arr[j].val > arr[j + 1].val) {
@@ -30,7 +26,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
         }
     }
 
-    // Step 3: Apply your two-pointer logic
+
     int start = 0;
     int end = numsSize - 1;
     while (start < end) {
@@ -39,7 +35,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
             result[0] = arr[start].idx;
             result[1] = arr[end].idx;
             free(arr);
-            return result;   // guaranteed solution
+            return result;   
         } else if (sum > target) {
             end--;
         } else {
@@ -47,7 +43,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
         }
     }
 
-    // Should never reach here since solution always exists
+
     *returnSize = 0;
     free(arr);
     return NULL;
