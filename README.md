@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0162-find-peak-element) |
+| [1046-last-stone-weight](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1046-last-stone-weight) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Binary Search
 |  |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
