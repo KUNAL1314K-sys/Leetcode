@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0050-powx-n) |
 | [3360-stone-removal-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Heap (Priority Queue)
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2126-destroying-asteroids) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
