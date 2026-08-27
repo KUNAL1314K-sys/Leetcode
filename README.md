@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
