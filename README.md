@@ -35,6 +35,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [3360-stone-removal-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
@@ -55,4 +56,8 @@
 | [0595-big-countries](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
