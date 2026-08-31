@@ -26,6 +26,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
 | [3360-stone-removal-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Heap (Priority Queue)
@@ -71,4 +72,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
