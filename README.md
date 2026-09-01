@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1046-last-stone-weight](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -14,10 +15,12 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -77,10 +80,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
