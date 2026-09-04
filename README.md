@@ -12,6 +12,7 @@
 | [2126-destroying-asteroids](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
