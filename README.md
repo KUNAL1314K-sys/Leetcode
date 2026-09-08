@@ -22,6 +22,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -72,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming
 |  |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
