@@ -4,7 +4,7 @@ class Solution:
         x = 1000
 
         while x <= n:
-            ans += n - x + 1
-            x *= 1000
+            ans =ans + n - x + 1
+            x = x * 1000
 
         return ans
