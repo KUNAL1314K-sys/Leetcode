@@ -5,15 +5,10 @@
 int* shuffle(int* nums, int numsSize, int n, int* returnSize){
     *returnSize = numsSize;
     int* ans = (int*)malloc(numsSize*sizeof(int));
-    int x =0;
-    int y = numsSize/2;
-    for(int i=0;i<numsSize;i++){
-        if(i%2==0){
-            ans[i] = nums[x++];
-        }
-        else{
-            ans[i] = nums[y++];
-        }
+
+    for(int i=0;i<n;i++){
+        ans[2*i] = nums[i];
+        ans[2*i+1] = nums[i+n];
     }
     return ans;
 }
