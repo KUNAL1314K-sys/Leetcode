@@ -11,6 +11,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2126-destroying-asteroids](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1920-build-array-from-permutation](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3360-stone-removal-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
