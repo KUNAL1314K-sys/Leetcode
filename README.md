@@ -18,6 +18,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [1991-find-the-middle-index-in-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2126-destroying-asteroids](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -124,6 +125,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1991-find-the-middle-index-in-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
