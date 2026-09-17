@@ -7,6 +7,7 @@
 | [0049-group-anagrams](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -107,6 +108,7 @@
 | [0049-group-anagrams](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
