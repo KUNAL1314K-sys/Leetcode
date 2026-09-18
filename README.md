@@ -8,6 +8,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -58,6 +60,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
@@ -112,6 +115,7 @@
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -163,4 +167,20 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
