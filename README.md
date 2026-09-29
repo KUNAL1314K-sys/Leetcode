@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -198,5 +199,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
