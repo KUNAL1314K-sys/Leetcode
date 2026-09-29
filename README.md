@@ -57,6 +57,7 @@
 | [0050-powx-n](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3360-stone-removal-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -194,4 +195,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
