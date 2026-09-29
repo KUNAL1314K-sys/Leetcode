@@ -10,9 +10,8 @@ class Solution:
             rem = sm%k
             if rem in freq:
                 count = count + freq[rem]
-            
-            if rem in freq:
                 freq[rem] += 1
+            
             else:
                 freq[rem] = 1
  
