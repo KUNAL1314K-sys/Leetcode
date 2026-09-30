@@ -11,6 +11,7 @@
 | [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -128,6 +129,7 @@
 | [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -146,6 +148,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
