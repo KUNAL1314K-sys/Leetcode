@@ -8,17 +8,12 @@ class Solution:
         # goal = arr[j] - arr[i-1]
         for i in nums:
             sm += i
-            ps.append(sm)
-
-        for x in ps:
-            if x-goal in dic:
-                count+=dic[x-goal]
-
-            if x in dic:
-                dic[x] += 1
-            else: 
-                dic[x] =1
+            if sm - goal in dic:
+                count = count + dic[sm-goal]
+            if sm in dic:
+                dic[sm] += 1
+            else:
+                dic[sm] = 1
         return count
-
         
 
