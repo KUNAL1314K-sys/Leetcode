@@ -125,6 +125,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0242-valid-anagram) |
@@ -138,6 +139,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -211,6 +213,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
