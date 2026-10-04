@@ -68,6 +68,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3360-stone-removal-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Prime Factorization
 |  |
 | ------- |
