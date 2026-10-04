@@ -62,6 +62,7 @@
 | [0050-powx-n](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -79,6 +80,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0682-baseball-game) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming
 |  |
