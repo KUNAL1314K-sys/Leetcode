@@ -66,6 +66,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1952-three-divisors](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3360-stone-removal-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3360-stone-removal-game) |
@@ -227,4 +228,20 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
