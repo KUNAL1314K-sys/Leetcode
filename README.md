@@ -22,6 +22,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1046-last-stone-weight) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
