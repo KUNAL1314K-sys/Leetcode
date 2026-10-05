@@ -72,6 +72,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -94,6 +95,7 @@
 | [0412-fizz-buzz](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0682-baseball-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3360-stone-removal-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3360-stone-removal-game) |
