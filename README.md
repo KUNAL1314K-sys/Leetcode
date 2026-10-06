@@ -44,6 +44,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -68,6 +69,7 @@
 | [0070-climbing-stairs](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
