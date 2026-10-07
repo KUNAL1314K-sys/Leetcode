@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0162-find-peak-element) |
@@ -133,6 +134,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0412-fizz-buzz) |
@@ -280,4 +282,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0707-design-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
