@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0162-find-peak-element) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0016-3sum-closest) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
