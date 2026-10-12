@@ -39,6 +39,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2126-destroying-asteroids](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -267,6 +268,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
