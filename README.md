@@ -22,6 +22,7 @@
 | [0682-baseball-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -66,6 +67,7 @@
 | [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0881-boats-to-save-people](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -116,6 +118,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2126-destroying-asteroids](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2126-destroying-asteroids) |
 ## Recursion
 |  |
@@ -183,6 +186,7 @@
 | [0202-happy-number](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0881-boats-to-save-people](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -296,4 +300,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0014-longest-common-prefix) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
