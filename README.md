@@ -117,6 +117,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2390-removing-stars-from-a-string](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3360-stone-removal-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
@@ -153,6 +154,7 @@
 | [0657-robot-return-to-origin](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0682-baseball-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
