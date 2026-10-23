@@ -30,6 +30,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1046-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -59,6 +60,7 @@
 | [0704-binary-search](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -215,6 +217,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -260,6 +263,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
