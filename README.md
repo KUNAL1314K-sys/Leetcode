@@ -20,6 +20,7 @@
 | [0523-continuous-subarray-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -74,6 +75,7 @@
 | [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0881-boats-to-save-people](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -184,6 +186,7 @@
 | [0523-continuous-subarray-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -260,6 +263,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -276,6 +280,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Quickselect
 |  |
 | ------- |
