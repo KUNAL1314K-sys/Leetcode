@@ -256,18 +256,21 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Union-Find
 |  |
 | ------- |
@@ -350,4 +353,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0455-assign-cookies) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/KUNAL1314K-sys/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
